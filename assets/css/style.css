@@ -109,7 +109,11 @@ header
 
 .logo-text
 {
-	padding: 24px;
+	text-align: center;
+	padding-top: 24px;
+	padding-bottom: 24px;
+	padding-right: 10px;
+	padding-left: 10px;
 	color: #ffffff;
 }
 
